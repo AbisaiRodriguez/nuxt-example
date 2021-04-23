@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'bbposturecheck';
+  src: url('~assets/fonts/bbposturecheck-webfont.woff') format('truetype');
+}
+
+@font-face {
+  font-family: 'hellobigdeal';
+  src: url('~assets/fonts/hellobigdeal-webfont.woff') format('truetype');
+}
+
+.web-header {
+  font-family: 'bbposturecheck';
+}
+
+.routes {
+  font-family: 'hellobigdeal';
+}
